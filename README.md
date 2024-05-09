@@ -1,4 +1,4 @@
-# Welcome 👋
+# Welcome 👋 (Currently not making many repos cuz i am gonna release a lot of BIG projects, trust me)
 ---
 ## Hello, i am LLCCH also known as LowLevelCodingCH
 ## I personally like coding in C/CPP/ASM/PY/Raw BIN/RUST (my alltime favourite now)
