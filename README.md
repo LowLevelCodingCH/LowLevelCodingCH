@@ -16,6 +16,13 @@
     <p>
 </h3>
 
+<h3 align="center">
+    <br>
+    <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ ┆┆ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LowLevelCodingCH&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=f92672&text_color=aaaaaa&count_private=true&locale=en&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=25&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowLevelCodingCH&langs_count=15&layout=compact&hide_border=false&theme=transparent&locale=en&title_color=f92072&text_color=c3c3c3&card_width=350&border_color=00000000&border_radius=10&line_height=30" />
+</h3> 
+
 <a href="https://github.com/LowLevelCodingCH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LowLevelCodingCH&theme=dracula&show_icons=true" />
 </a>
