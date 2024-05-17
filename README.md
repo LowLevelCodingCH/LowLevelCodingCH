@@ -23,6 +23,25 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowLevelCodingCH&langs_count=15&layout=compact&hide_border=false&theme=transparent&locale=en&title_color=f92072&text_color=c3c3c3&card_width=350&border_color=00000000&border_radius=10&line_height=30" />
 </h3> 
 
+<p align="center">
+    <kbd>
+        <kbd>꒷꒦꒷꒦꒷꒦꒷ Very Familiar With ꒷꒦꒷꒦꒷꒦꒷</kbd>
+        <br><br>        
+        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+        <img width="35px" src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" />
+        <img width="35px" src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" />
+        <br>
+    </kbd>
+    <br><br>
+    <kbd>˚ ༘ ೀ⋆｡˚ Currently learning C++, C, Assembly more in-depth (also literally binary programming).</kbd>
+    <br>
+</p>
+
 <a href="https://github.com/LowLevelCodingCH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LowLevelCodingCH&theme=dracula&show_icons=true" />
 </a>
